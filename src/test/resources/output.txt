@@ -1,0 +1,4 @@
+productUrl:https://www.beymen.com/tr/p_beymen-club-antrasit-dis-gomlek_1555669
+productCode:102106128_010
+size:XS
+amount:3.099
